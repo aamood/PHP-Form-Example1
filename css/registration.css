@@ -1,0 +1,29 @@
+body {
+	background-color: #3366dd;
+	color: #000;
+}
+
+#container {
+	margin: 0 auto;
+	margin-top: -22px;
+	width: 900px;
+	text-align: left;
+	font-weight: bold;
+	background-color: #fff;
+	color: #000;
+}
+
+#register {
+	font-weight: bold;
+	font-size: medium;
+	font-style: italic;
+}
+
+#register a{
+	color: red;
+	text-decoration: none;
+}
+
+#my_table td{
+	width: 90px;
+}
